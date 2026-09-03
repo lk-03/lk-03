@@ -51,6 +51,7 @@ Node.js • PostgreSQL • Supabase • REST APIs • Linux • Git
 <p align="center">
   <img src="./profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
 </p>
+
 ---
 
 ### 📫 Let's Connect!
