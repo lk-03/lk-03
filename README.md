@@ -49,9 +49,8 @@ Node.js • PostgreSQL • Supabase • REST APIs • Linux • Git
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lk-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="./profile-summary-cards-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
 </p>
-
 ---
 
 ### 📫 Let's Connect!
