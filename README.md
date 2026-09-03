@@ -42,14 +42,18 @@ Node.js • PostgreSQL • Supabase • REST APIs • Linux • Git
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lk-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lk-03/lk-03/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
 </p>
 
 ---
