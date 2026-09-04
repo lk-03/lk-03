@@ -1,7 +1,25 @@
-# Hi there, I'm Kowsic! 👋
+<div align="center">
 
-🚀 **CS Undergrad @ VIT Chennai**  
-💻 **Software Engineer & Full-Stack Developer**
+<!-- The Animated Waving Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5a29e4,1e095c&height=200&section=header&text=Hey,%20I'm%20Kowsic!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<br>
+
+<!-- Subtitle -->
+<h3>Software Engineer | Full-Stack Developer | Mobile Architect</h3>
+
+<!-- Pastel Custom Badges -->
+<a href="https://www.linkedin.com/in/kowsic-l"><img src="https://img.shields.io/badge/LINKEDIN-C599A4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:lkowsic@gmail.com"><img src="https://img.shields.io/badge/EMAIL-E2C8C6?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+<a href="https://github.com/lk-03"><img src="https://img.shields.io/badge/GITHUB-B5A5D1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br><br>
+
+**CS Undergrad @ VIT Chennai | Building resilient systems at scale**
+
+<br>
+
+</div>
 
 ---
 
@@ -29,7 +47,7 @@ Node.js • PostgreSQL • Supabase • REST APIs • Linux • Git
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,c,cpp,java,react,flutter,nodejs,postgres,supabase,git,github,linux&perline=8" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,ts,js,dart,html,css,react,nextjs,tailwind,flutter,nodejs,express,postgres,mongodb,supabase,firebase,redis,docker,aws,azure,nginx,linux,bash,git,github,figma,npm&perline=10" alt="My Tech Stack" />
 </p>
 
 ---
@@ -55,12 +73,3 @@ Node.js • PostgreSQL • Supabase • REST APIs • Linux • Git
 <p align="center">
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
 </p>
-
----
-
-### 📫 Let's Connect!
-
-Whether you want to collaborate on a project, talk about software architecture, or just say hi—feel free to reach out!
-
-💼 **LinkedIn:** [linkedin.com/in/kowsic-l](https://www.linkedin.com/in/kowsic-l)  
-✉️ **Email:** [lkowsic@gmail.com](mailto:lkowsic@gmail.com)
