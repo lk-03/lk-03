@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- The Animated Waving Banner (Tokyonight Gradient) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=bf91f3,70a5fd&height=200&section=header&text=Hey,%20I'm%20Kowsic!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+<!-- Sleek Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=bf91f3&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Kowsic!+👋;Software+Engineer;Mobile+%26+Full-Stack+Developer" alt="Typing SVG" />
+</a>
 
 <br>
-
-<!-- Subtitle -->
-<h3>Software Engineer | Full-Stack Developer | Mobile Architect</h3>
 
 <!-- Tokyonight Custom Badges -->
 <a href="https://www.linkedin.com/in/kowsic-l"><img src="https://img.shields.io/badge/LINKEDIN-70a5fd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
