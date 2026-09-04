@@ -71,3 +71,7 @@ Node.js • PostgreSQL • Supabase • REST APIs • Linux • Git
 <p align="center">
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lk-03/lk-03/output/github-snake-dark.svg" alt="GitHub Snake" width="100%" />
+</p>
