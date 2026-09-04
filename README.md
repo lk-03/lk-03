@@ -1,17 +1,16 @@
 <div align="center">
 
-<!-- The Animated Waving Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5a29e4,1e095c&height=200&section=header&text=Hey,%20I'm%20Kowsic!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+<!-- The Animated Waving Banner (Tokyonight Gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=bf91f3,70a5fd&height=200&section=header&text=Hey,%20I'm%20Kowsic!&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br>
 
 <!-- Subtitle -->
 <h3>Software Engineer | Full-Stack Developer | Mobile Architect</h3>
 
-<!-- Pastel Custom Badges -->
-<a href="https://www.linkedin.com/in/kowsic-l"><img src="https://img.shields.io/badge/LINKEDIN-C599A4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:lkowsic@gmail.com"><img src="https://img.shields.io/badge/EMAIL-E2C8C6?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
-<a href="https://github.com/lk-03"><img src="https://img.shields.io/badge/GITHUB-B5A5D1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<!-- Tokyonight Custom Badges -->
+<a href="https://www.linkedin.com/in/kowsic-l"><img src="https://img.shields.io/badge/LINKEDIN-70a5fd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:lkowsic@gmail.com"><img src="https://img.shields.io/badge/EMAIL-38bdae?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br><br>
 
