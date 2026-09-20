@@ -24,9 +24,9 @@
 
 ### About Me
 
-Think of this corner of GitHub as my personal engineering sandbox where I mostly fuck around and find out. If a minor inconvenience annoys me for more than 48 hours—whether it is cyclic group debts between friends, clunky mobile reader apps, or fragmented data flows—I will inevitably build a full-stack, offline-first system from scratch to obliterate it.
+hi, i mostly over-engineer all my minor digital inconvenience in life and spend endless time messing around a simple ebook reader because i dont find any other readers intuitive. 
 
-When I am not over-engineering fixes for everyday problems, I love building resilient backend architectures, exploring low-level data synchronization, and tinkering with agentic AI workflows and sleek cross-platform mobile apps.
+When I am not wasting time finding a way to fix an overly specific infuriating thing in my life, I love building resilient backend architectures, exploring low-level data synchronization, and tinkering with agentic AI workflows and sleek cross-platform mobile apps.
 
 ---
 
