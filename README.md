@@ -2,18 +2,19 @@
 
 <!-- Sleek Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=bf91f3&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Kowsic!+👋;Software+Engineer;Mobile+%26+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=bf91f3&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Kowsic!;Software+Engineer;Full-Stack+%26+Backend+Systems;Building+at+Scale" alt="Typing SVG" />
 </a>
 
 <br>
 
 <!-- Tokyonight Custom Badges -->
+
 <a href="https://www.linkedin.com/in/kowsic-l"><img src="https://img.shields.io/badge/LINKEDIN-70a5fd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:lkowsic@gmail.com"><img src="https://img.shields.io/badge/EMAIL-38bdae?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br><br>
 
-**CS Undergrad @ VIT Chennai | Building resilient systems at scale**
+**CS Undergrad @ VIT Chennai | Full-Stack & Backend Systems Engineer**
 
 <br>
 
@@ -21,28 +22,31 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-I love building robust, end-to-end software solutions that solve real-world problems. For me, it's not just about making a pretty interface—it's about writing clean code, designing scalable architectures, and building resilient systems from the ground up.
+Think of this corner of GitHub as my personal engineering sandbox where I mostly fuck around and find out. If a minor inconvenience annoys me for more than 48 hours—whether it is cyclic group debts between friends, clunky mobile reader apps, or fragmented data flows—I will inevitably build a full-stack, offline-first system from scratch to obliterate it.
 
-Right now, my main focus is on mastering full-stack engineering—from designing secure backend systems and APIs to connecting them with high-performance, cross-platform frontends!
+When I am not over-engineering fixes for everyday problems, I love building resilient backend architectures, exploring low-level data synchronization, and tinkering with agentic AI workflows and sleek cross-platform mobile apps.
 
 ---
 
-### 🛠️ Skills & Arsenal
+### Skills and Arsenal
 
 **Languages**  
-TypeScript • JavaScript • Python • C/C++ • Java • SQL • Dart
+TypeScript • JavaScript • Python • Dart • C/C++ • Java • SQL
+
+**Backend, Systems & Cloud**  
+PostgreSQL • Supabase • Node.js • Deno • REST APIs • Redis • Linux • Docker • Git
 
 **Frontend & Mobile**  
-React • React Native • Expo • Flutter • Zustand
+Flutter • React Native • Expo • React • Riverpod • Zustand
 
-**Backend, Data & Core**  
-Node.js • PostgreSQL • Supabase • REST APIs • Linux • Git
+**AI & Core Tools**  
+Google Gemini Vision • LangGraph • Multi-Agent Systems • GitHub Actions
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,ts,js,dart,html,css,react,nextjs,tailwind,flutter,nodejs,express,postgres,mongodb,supabase,firebase,redis,docker,aws,azure,nginx,linux,bash,git,github,figma,npm&perline=10" alt="My Tech Stack" />
@@ -50,15 +54,14 @@ Node.js • PostgreSQL • Supabase • REST APIs • Linux • Git
 
 ---
 
-### 🔭 What I'm Currently Up To
+### What I am Currently Up To
 
-- 💻 **Architecting Full-Stack Systems:** Building high-performance software with rock-solid data synchronization (like my FairShare app).
-- 🚀 **Planning Lukatdis:** Designing the backend architecture and data flow for a personal stock monitoring dashboard.
-- 🎯 **Expanding My Toolkit:** Broadening my cross-platform engineering skills by diving into **Flutter** and **Dart**! 💙
+- **FairShare:** Hardening offline-first data sync, min-flow graph settlements, and multimodal Gemini Vision receipt parsing.
+- **Foliate Android:** Developing the dual-runtime Flutter/WebView EPUB reader engine with GNOME Libadwaita design and content-addressed storage.
 
 ---
 
-### 📈 GitHub Stats & Activity
+### GitHub Stats and Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lk-03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
